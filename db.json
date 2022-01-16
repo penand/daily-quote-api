@@ -1,0 +1,36 @@
+{
+    "quotes": [
+        {
+            "id": 0,
+            "author": "Dolly Parton",
+            "category": "motivation",
+            "title": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+            "image": "https://cdn.pixabay.com/photo/2019/03/11/00/15/rainbow-4047523_960_720.jpg",
+            "used": true
+        },
+        {
+            "id": 1,
+            "author": "Dalai Lama",
+            "category": "life",
+            "title": "The purpose of our lives is to be happy.",
+            "image": "https://artificialintelligencerisksandsafety.files.wordpress.com/2019/08/clouds.jpg",
+            "used": false
+        },
+        {
+            "id": 2,
+            "author": "Jim Rohn",
+            "category": "life",
+            "title": "Happiness is not by chance, but by choice.",
+            "image": "https://cdn.pixabay.com/photo/2014/12/16/22/25/woman-570883_960_720.jpg",
+            "used": false
+        },
+        {
+            "id": 3,
+            "author": "Albert Einstein",
+            "category": "motivation",
+            "title": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+            "image": "https://verkenjegeest.com/wp-content/uploads/2019/05/albert-einstein.jpg",
+            "used": false
+        }
+    ]
+}
