@@ -20,7 +20,7 @@
     "url": "https://github.com/penand/daily-quote-api/issues"
   },
   "homepage": "https://github.com/penand/daily-quote-api#readme",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.17.0"
   }
 }
